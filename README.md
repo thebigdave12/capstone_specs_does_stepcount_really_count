@@ -9,8 +9,14 @@
 
 ### Features:
 
-##### Data Description - Details on all data sets used, transformations, learning. Findings - in-depth report using pandas/data visualizations to show step count's impact on weight loss. Linear and Multivariate Regression Models - build models to predict calories burned based upon step count/miles traveled/active minutes. Side-by-side prediction - compare my own fitbit stats and see if the models are accurate at predicting my weight loss over the last 6 months. Weight Loss Predictors - plug and play predictors that users can utilize to make weight loss/activity goals.
+##### Data Description - Details on all data sets used, transformations, learning. 
+##### Findings - in-depth report using pandas/data visualizations to show step count's impact on weight loss. 
+##### Linear and Multivariate Regression Models - build models to predict calories burned based upon step count/miles traveled/active minutes. 
+##### Side-by-side prediction - compare my own fitbit stats and see if the models are accurate at predicting my weight loss over the last 6 months. 
+##### Weight Loss Predictors - plug and play predictors that users can utilize to make weight loss/activity goals.
 
 ### TechStack:
 
 ##### Pandas, Jupyter Notebooks, Matplotlib, Seaborn, StatsmodelsAPI, sklearn.linear_model, Streamlit, Python
+
+### Streamlit:
